@@ -1,0 +1,9 @@
+{
+  "name": "Lovense SmartCam Endpoint",
+  "id": "obs-lovense-endpoint",
+  "version": "1.0.0",
+  "lib": "obs-lovense-endpoint.so",
+  "author": "Farida",
+  "description": "OBS-local SmartCam endpoint for Lovense Cam Video Feedback",
+  "category": "other"
+}
